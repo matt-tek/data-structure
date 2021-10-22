@@ -1,10 +1,3 @@
-/*
-** MATT_TEK, 2021
-** header
-** File description:
-** header file for linked list
-*/
-
 #ifndef LINKED_LIST_H_
 #define LINKED_LIST_H_
 
